@@ -1,0 +1,36 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 82px;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: right;
+  padding-right: 32px;
+  font-weight: 500;
+}
+li:first-child{
+  float: left;
+  font-size: 23px;
+}
+li:first-child :hover{
+  font-size: 25px;
+}
+li span{
+  color: blue;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  transition:.70s;
+  font-size: large;
+}

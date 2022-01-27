@@ -1,0 +1,18 @@
+.first{
+    height: 80vh;
+}
+.right{
+    width: 50%;
+    background-image: url("./../../assets/images/TransVr.png");
+    background-size: cover;
+    background-color: rgb(165,185,183);
+    border-radius: 0 0 0 35%;
+    background-position: 500px 49px ;
+}
+.left{
+    width: 50%;
+    padding-top: 10%;
+}
+.left h2,p{
+    margin-left: 23px;
+}

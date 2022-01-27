@@ -1,0 +1,26 @@
+.Third{
+    height: 60vh;
+}
+.t-left{
+    width: 30%;
+    padding-top: 10%;
+    border-radius: 0 250px 0 0;
+    background-color: rgb(165,185,183);
+}
+.t-right{
+    width: 50%;
+   height: 100%;
+   padding-top: 100px;
+}
+.t-right p{
+    font-size: larger;
+}
+
+.button{
+    margin-left: 130px;
+}
+.button button{
+    padding: 7px 20px;
+    margin-top: 54px;
+    background-color: rgb(165,185,183);
+}
